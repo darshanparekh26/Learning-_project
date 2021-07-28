@@ -1,3 +1,6 @@
+
+
+
 class count1
 {
 public static void main(String ar[])
